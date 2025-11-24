@@ -10,6 +10,14 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  
+  --color-cream-100: #FDFBF7;
+  --color-cream-200: #F5F0E6;
+  
+  --color-pastel-pink: #FFD1DC;
+  --color-pastel-blue: #AEC6CF;
+  --color-pastel-green: #77DD77;
+  --color-pastel-yellow: #FDFD96;
 }
 
 @media (prefers-color-scheme: dark) {
